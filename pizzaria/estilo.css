@@ -1,0 +1,71 @@
+
+
+
+.nomelogo{
+    
+    font-family: 'Rubik', sans-serif;
+    margin-top: -20px;
+    color: aliceblue;
+}
+
+
+.formBloco{
+
+  margin-left: 400px;
+  width: 90%;
+  max-width: 600px;
+}
+
+
+#lado{
+
+    margin-left:  650px;
+    margin-top: -40px;
+    width: 200px;
+}
+
+#lado1{
+
+    margin-left:  600px;
+    margin-top: -40px;
+    width: 200px;
+}
+
+#lado2{
+
+    
+    margin-top: -50px;
+    width: 200px;
+}
+
+#lado3{
+
+    margin-left: 300px;
+    margin-top: -30px;
+    width: 200px;
+}
+
+
+.nav{
+
+background-color: rgb(49, 47, 47);
+color: black;
+
+
+}
+
+.centro1{
+margin-left: 500px;
+font-family: 'Rubik', sans-serif;
+
+}
+
+
+#centro1{
+    margin-left: 500px;
+    }
+    
+    
+#centro2{
+    margin-left: -70px;
+    }
